@@ -1,0 +1,25 @@
+{
+  "forward_window": 1728000,
+  "notion": {
+    "token": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "table_url": "https://www.notion.so/bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb?v=cccccccccccccccccccccccccccccccc"
+  },
+  "cards": [
+    {
+      "type": "privat",
+      "card_num": "0000000000000000",
+      "merchant_id": "000000",
+      "merchant_pass": "ssssssssssssssssssssssssssssssss"
+    },
+    {
+      "type": "mono",
+      "card_id": "aaaaaaaaaaaaaaaaaaaaaa",
+      "limits_history": {
+        "1578501047": 1500000,
+        "1551558684": 1000000,
+        "1550251299": 200000
+      },
+      "token": "ssssssssssssssssssssssssssssssssssssssssssss"
+    }
+  ]
+}
